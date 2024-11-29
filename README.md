@@ -1,16 +1,21 @@
 ## Hi there 👋
+Sou Leonardo Mateus, programador Front End, atualmente aprendendo e criando projetos:
+<br>
+<br>
 
-<!--
-**leonardomateuss/leonardomateuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=leonardomateuss&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000000)](https://git.io/streak-stats)
+
+<br>
+<br>
+
+:email: leonardomateus1806@hotmail.com
+
+
+
+
